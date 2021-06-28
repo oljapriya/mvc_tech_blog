@@ -19,7 +19,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 * THEN I am taken to the homepage
 * WHEN I click on any other links in the navigation
 * THEN I am prompted to either sign up or sign in
-WHEN I choose to sign up
+* WHEN I choose to sign up
 * THEN I am prompted to create a username and password
 * WHEN I click on the sign-up button
 * THEN my user credentials are saved and I am logged into the site
@@ -47,15 +47,16 @@ WHEN I choose to sign up
 * THEN I am automatically signed uot of the site
 
 ## Table of Contents
-* Description
-* User Story
-* Acceptance Criteria
-* Table of Contents
-* Installation
-* Usage
-* Testing
-* Contributing
-* Questions
+- [Description](#Description)
+- [User Story](#UserStory)
+- [Acceptance Criteria](#AcceptanceCriteria)
+- [Screenshots](#Screenshots)
+- [Table of Contents](#Tableofcontents)
+- [Instalation](#Instalation)
+- [Usage](#Usage)
+- [Testing](#Test)
+- [Contributing](#Contributing)
+- [Questions](#Questions)
 ## Instalation
 npm init
 npm install
@@ -64,4 +65,4 @@ npm install
 ## Usage
 ## Testing
 ## Contributing
-## Qustions 
+## Questions 
