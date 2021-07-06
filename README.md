@@ -67,13 +67,13 @@ THEN I am automatically signed out of the site\
 ## Usage
 Run the following command at the root of your project and answer the prompted qustions:    
 `mysql -u root -p`\
-Enter SW when promted
+Enter SW when promted\
 `source db/schema.sql`\ 
 `quit`\
-`npm run seed` 
-`npm start` 
+`npm run seed`\ 
+`npm start`\ 
 With Nodemon:
-`npm run watch` 
+`npm run watch`\ 
 
 ## Testing
 N/A 
