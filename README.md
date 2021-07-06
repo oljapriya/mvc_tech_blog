@@ -69,11 +69,11 @@ Run the following command at the root of your project and answer the prompted qu
 `mysql -u root -p`\
 Enter SW when promted \
 `source db/schema.sql` \
-quit\
-npm run seed\
-npm start\
-With Nodemon:\
-npm run watch
+`quit` \
+`npm run seed` \
+`npm start` \
+`With Nodemon:` \
+`npm run watch` \
 
 ## Testing
 N/A 
