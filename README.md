@@ -65,9 +65,9 @@ THEN I am automatically signed out of the site\
 `npm install`
 
 ## Usage
-Run the following command at the root of your project and answer the prompted qustions:\    
+Run the following command at the root of your project and answer the prompted qustions:    
 `mysql -u root -p`\
-Enter SW when promted\ 
+Enter SW when promted
 `source db/schema.sql`\ 
 `quit`\
 `npm run seed` 
