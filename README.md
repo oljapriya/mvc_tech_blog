@@ -65,10 +65,10 @@ THEN I am automatically signed out of the site\
 `npm install`
 
 ## Usage
-Run the following command at the root of your project and answer the prompted qustions:&nbsp      
-`mysql -u root -p`&nbsp
-Enter SW when promted&nbsp
-`source db/schema.sql`&nbsp 
+Run the following command at the root of your project and answer the prompted qustions: &nbsp      
+`mysql -u root -p` &nbsp
+Enter SW when promted &nbsp
+`source db/schema.sql` &nbsp 
 `quit`
 `npm run seed` 
 `npm start` 
