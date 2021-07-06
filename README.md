@@ -73,7 +73,7 @@ Enter SW when promted \
 `npm run seed` \
 `npm start` \
 `With Nodemon:` \
-`npm run watch` \
+`npm run watch` 
 
 ## Testing
 N/A 
