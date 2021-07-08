@@ -1,7 +1,7 @@
 # Model-View-Controller (MVC): Tech Blog
 
 ## Description
-
+Deployed on heroku [Tech Blog](https://safe-plateau-77492.herokuapp.com/)
 A mysql database and CMS-style blog built using MVC paradigm. Built using Mysql2, Express, Sequelize, Bulma, Handlebars and dotenv.
 
 ## User Story
